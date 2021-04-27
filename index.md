@@ -48,8 +48,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [![Instagram Emanuel Angelo](https://img.shields.io/badge/Instagram-emanuel_.angelo-green)](https://www.instagram.com/emanuel_.angelo/)
 <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmanuelAngelo/aboutme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Aqui está um link que irá redirecionar para meu grupo de `_repositórios` aqui no GitHub [repository settings](https://github.com/EmanuelAngelo?tab=repositories). <br>
 
-### Support or Contact
+### Para contato direto comigo
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
