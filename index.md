@@ -48,7 +48,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [![Instagram Emanuel Angelo](https://img.shields.io/badge/Instagram-emanuel_.angelo-green)](https://www.instagram.com/emanuel_.angelo/)
 <br>
 
-Aqui está um link que irá redirecionar para meu grupo de `_repositórios` aqui no GitHub [repository settings](https://github.com/EmanuelAngelo?tab=repositories). <br>
+Aqui está um link que irá redirecionar para meu grupo de `_repositórios` aqui no GitHub [Meu Repositório](https://github.com/EmanuelAngelo?tab=repositories). <br>
 
 ### Para contato direto comigo
 
