@@ -21,11 +21,10 @@ My path of work has always been in the area of ​​Information Technology, wor
 <br>
 
 ```markdown
-Aqui se encontra dois quadros de "medições" das minhas habilidades 
 # Django
 ## Python
 ### Vuetify
-&theme=merko
+Aqui se encontra dois quadros de "medições" das minhas habilidades
 ```
 <a href="https://github.com/EmanuelAngelo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true" />
