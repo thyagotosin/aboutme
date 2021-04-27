@@ -42,11 +42,7 @@ Aqui se encontra dois quadros de "medições" das minhas habilidades
     criado_por = models.CharField('Criado por', max_length=50, null=True, blank=True)
     alterado_por = models.CharField('Alterado por', max_length=50, null=True, blank=True)` 
 
-[Link](url) and ![Image](src)
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Aqui algumas das redes Sociais que atualmente utilizo <br>
 
