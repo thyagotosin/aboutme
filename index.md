@@ -33,17 +33,7 @@ Aqui se encontra dois quadros de "medições" das minhas habilidades
 <a href="https://github.com/EmanuelAngelo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8&layout=compact" />
 </a>
-
- `class User(AbstractUser):
-    foto = models.ImageField(upload_to=path_foto, verbose_name='Foto de Perfil', null=True, blank=True)
-    social_avatar = models.CharField(max_length=300, verbose_name='Social Avatar', null=True, blank=True)
-    criado_em = models.DateTimeField('Criado em', auto_now_add=True, auto_now=False, null=True)
-    alterado_em = models.DateTimeField('Alterado em', auto_now_add=False, auto_now=False, null=True)
-    criado_por = models.CharField('Criado por', max_length=50, null=True, blank=True)
-    alterado_por = models.CharField('Alterado por', max_length=50, null=True, blank=True)` 
-
-
-
+ 
 ### Aqui algumas das redes Sociais que atualmente utilizo <br>
 
 [![Twitter: Emanuel Angelo](https://img.shields.io/twitter/follow/ruthusky?style=social)](https://twitter.com/ruthusky)
