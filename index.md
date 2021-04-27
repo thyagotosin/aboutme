@@ -1,8 +1,13 @@
 ## Bem vind@ a minha Pagina GitHub
 
-You can use the [editor on GitHub](https://github.com/EmanuelAngelo/aboutme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Portuguese
+Olá, sou formado na turma 2020.1 em Sistemas de Informação pela UNDB (Centro Universitário Dom Bosco), estou no momento fazendo Mestrado Profissional em Engenharia da Computação comecei na UEMA sendo aluno Especial (Universidade Estadual do Maranhão) cursando uma Especialização em Engenharia de Software pela Faculdade Dom Alberto EAD.
+Minha trilha de trabalho sempre foi na area de Tecnologia da Informação, trabalhando como Tecnico de Informatica, estou trilhando novo caminho e focando em Desenvolvimento de Sistemas na parte de Backend e Mobile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+English
+Hello, I graduated in class 2020.1 in Information Systems from UNDB (Centro Universitário Dom Bosco), I am currently doing a Professional Master in Computer Engineering I started at UEMA as a Special Student (State University of Maranhão) taking a Specialization in Software Engineering from Faculdade Dom Alberto EAD.
+My path of work has always been in the area of ​​Information Technology, working as a Computer Technician, I stopped by being a Technology Teacher at the CEAPI private school in my city, I am treading a new path and focusing on Systems Development on the Backend and Mobile side. 
 
 ### Markdown
 
