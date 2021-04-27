@@ -21,12 +21,20 @@ My path of work has always been in the area of ​​Information Technology, wor
 <br>
 
 ```markdown
-Syntax highlighted code block
+Aqui se encontra dois quadros de "medições" das minhas habilidades <br>
+# Django
+## Python
+### Vuetify
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://github.com/EmanuelAngelo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/EmanuelAngelo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8&theme=merko&layout=compact" />
+</a>
 
+<br>
 - Bulleted
 - List
 
