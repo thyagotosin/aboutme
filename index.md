@@ -25,23 +25,22 @@ Aqui se encontra dois quadros de "medições" das minhas habilidades
 # Django
 ## Python
 ### Vuetify
+&theme=merko
 ```
 <a href="https://github.com/EmanuelAngelo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true" />
 </a>
 <a href="https://github.com/EmanuelAngelo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8&theme=merko&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8&layout=compact" />
 </a>
 
-<br>
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+ `class User(AbstractUser):
+    foto = models.ImageField(upload_to=path_foto, verbose_name='Foto de Perfil', null=True, blank=True)
+    social_avatar = models.CharField(max_length=300, verbose_name='Social Avatar', null=True, blank=True)
+    criado_em = models.DateTimeField('Criado em', auto_now_add=True, auto_now=False, null=True)
+    alterado_em = models.DateTimeField('Alterado em', auto_now_add=False, auto_now=False, null=True)
+    criado_por = models.CharField('Criado por', max_length=50, null=True, blank=True)
+    alterado_por = models.CharField('Alterado por', max_length=50, null=True, blank=True)` 
 
 [Link](url) and ![Image](src)
 
@@ -61,4 +60,4 @@ Aqui está um link que irá redirecionar para meu grupo de `_repositórios` aqui
 
 ### Para contato direto comigo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Se quiser um contato profissional [Linkedin](https://www.linkedin.com/in/emanuelangelo/) ou meu [FaceBook](https://www.facebook.com/emanuel.angelo.148/) apesar de ter muito meme sou bem legal hahaha.
