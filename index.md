@@ -36,7 +36,7 @@ Aqui se encontra dois quadros de "medições" das minhas habilidades <br>
 </a>
 
 <br>
-```
+
 - Bulleted
 - List
 
@@ -47,7 +47,7 @@ Aqui se encontra dois quadros de "medições" das minhas habilidades <br>
 
 [Link](url) and ![Image](src)
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
