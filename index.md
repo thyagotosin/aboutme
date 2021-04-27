@@ -16,7 +16,6 @@ My path of work has always been in the area of ​​Information Technology, wor
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/veu/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br>
@@ -41,7 +40,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Aqui algumas das redes Sociais que atualmente utilizo <br>
+
+[![Twitter: Emanuel Angelo](https://img.shields.io/twitter/follow/ruthusky?style=social)](https://twitter.com/ruthusky)
+[![Linkedin: Emanuel Angelo](https://img.shields.io/badge/-EmanuelAngelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelangelo/)](https://www.linkedin.com/in/emanuelangelo/)
+[![GitHub Emanuel Angelo](https://img.shields.io/github/followers/EmanuelAngelo?label=follow&style=social)](https://github.com/EmanuelAngelo)
+[![Instagram Emanuel Angelo](https://img.shields.io/badge/Instagram-emanuel_.angelo-green)](https://www.instagram.com/emanuel_.angelo/)
+<br>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmanuelAngelo/aboutme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
